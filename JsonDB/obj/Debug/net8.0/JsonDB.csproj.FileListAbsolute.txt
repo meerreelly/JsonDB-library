@@ -1,0 +1,11 @@
+/home/merely/RiderProjects/JsonDB/JsonDB/bin/Debug/net8.0/JsonDB.deps.json
+/home/merely/RiderProjects/JsonDB/JsonDB/bin/Debug/net8.0/JsonDB.dll
+/home/merely/RiderProjects/JsonDB/JsonDB/bin/Debug/net8.0/JsonDB.pdb
+/home/merely/RiderProjects/JsonDB/JsonDB/obj/Debug/net8.0/JsonDB.GeneratedMSBuildEditorConfig.editorconfig
+/home/merely/RiderProjects/JsonDB/JsonDB/obj/Debug/net8.0/JsonDB.AssemblyInfoInputs.cache
+/home/merely/RiderProjects/JsonDB/JsonDB/obj/Debug/net8.0/JsonDB.AssemblyInfo.cs
+/home/merely/RiderProjects/JsonDB/JsonDB/obj/Debug/net8.0/JsonDB.csproj.CoreCompileInputs.cache
+/home/merely/RiderProjects/JsonDB/JsonDB/obj/Debug/net8.0/JsonDB.dll
+/home/merely/RiderProjects/JsonDB/JsonDB/obj/Debug/net8.0/refint/JsonDB.dll
+/home/merely/RiderProjects/JsonDB/JsonDB/obj/Debug/net8.0/JsonDB.pdb
+/home/merely/RiderProjects/JsonDB/JsonDB/obj/Debug/net8.0/ref/JsonDB.dll
